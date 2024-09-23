@@ -11,6 +11,7 @@
 <h2> 👩‍💻 Data Analysis Projects:</h2>
 
   - [R Shiny Lab](https://github.com/rebecca-ioffe/ShinyAppLab)
+  - [Generative Art with R](https://github.com/rebecca-ioffe/GenerativeArt)
 
 <h2> Certifications : </h2> 
 
