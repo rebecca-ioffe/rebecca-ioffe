@@ -12,6 +12,7 @@
 
   - [R Shiny Lab](https://github.com/rebecca-ioffe/ShinyAppLab)
   - [Generative Art with R](https://github.com/rebecca-ioffe/GenerativeArt)
+  - [Horoscope R Package](https://github.com/rebecca-ioffe/HoroscopePackage)
 
 <h2> Certifications : </h2> 
 
