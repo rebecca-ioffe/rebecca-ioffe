@@ -10,7 +10,7 @@
 
 <h2> 👩‍💻 Data Analysis Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/LABURL)
+  - [R Shiny Lab](https://github.com/rebecca-ioffe/ShinyAppLab)
 
 <h2> Certifications : </h2> 
 
