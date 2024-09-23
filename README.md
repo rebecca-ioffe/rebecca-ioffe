@@ -11,8 +11,16 @@
 <h2> 👩‍💻 Data Analysis Projects:</h2>
 
   - [R Shiny Lab](https://github.com/rebecca-ioffe/ShinyAppLab)
+  - [R Shiny Dashboard Lab]
+  - [Web Scraping with R Lab]
+  - [Intro into API's in R]
   - [Generative Art with R](https://github.com/rebecca-ioffe/GenerativeArt)
   - [Horoscope R Package](https://github.com/rebecca-ioffe/HoroscopePackage)
+  - [Working with NTSB Data in SQL]
+  - [Multilevel and Mixed Modeling in R]
+  - [Multivariate Analysis in R]
+  - [Survival Analysis in R and Minitab]
+  - [Working with Gapminder Data in SAS]
 
 <h2> Certifications : </h2> 
 
