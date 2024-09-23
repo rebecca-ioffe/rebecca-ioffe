@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @rebecca-ioffe
-- 👀 I’m interested in data analysis and statistics. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @rebecca-ioffe  
 
-<!---
-rebecca-ioffe/rebecca-ioffe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+>> I’m interested in data analysis, data science, and statistics.  
+>>  I’m currently learning Python, machine learning, and advanced data science techniques.  
+>> I’m looking to collaborate on data-driven projects, research, and innovative solutions in analytics.  
+📫 How to reach me: You can contact me via email at rebecca.ioffe@gmail.com
