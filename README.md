@@ -11,9 +11,7 @@
 <h2> 👩‍💻 Data Analysis Projects:</h2>
 
   - [R Shiny Lab](https://github.com/rebecca-ioffe/ShinyAppLab)
-  - [R Shiny Dashboard Lab]
-  - [Web Scraping with R Lab]
-  - [Intro into API's in R]
+  - [Web Scraping with R Lab](https://github.com/rebecca-ioffe/WebScrapinginR)
   - [Generative Art with R](https://github.com/rebecca-ioffe/GenerativeArt)
   - [Horoscope R Package](https://github.com/rebecca-ioffe/HoroscopePackage)
   - [Working with NTSB Data in SQL]
