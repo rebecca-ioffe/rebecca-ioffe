@@ -24,7 +24,8 @@
 
 <h2> Certifications : </h2> 
 
- - [Tableau Dashboards](https://www.youtube.com/watch?v=zgqfWLHNKLk)
+ - [In Progress Tableau Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
+ - [In Progress Society of Actuaries Exam P](https://www.soa.org/education/exam-req/edu-exam-p-detail/)
 
 <h2> Connect with me:</h2>
 
