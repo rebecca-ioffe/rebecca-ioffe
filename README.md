@@ -26,6 +26,9 @@
 
  - [In Progress Tableau Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
  - [In Progress Society of Actuaries Exam P](https://www.soa.org/education/exam-req/edu-exam-p-detail/)
+ - [In Progress Tableau Desktop Specialist](https://www.tableau.com/learn/certification/desktop-specialist)
+ - [In Progress Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
+ - [In Progress W3Schools SQL Certificate](https://www.w3schools.com/sql/sql_exam.asp)
 
 <h2> Connect with me:</h2>
 
