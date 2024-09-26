@@ -22,7 +22,7 @@
 
  - [In Progress Tableau Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
  - [In Progress Society of Actuaries Exam P](https://www.soa.org/education/exam-req/edu-exam-p-detail/)
- - [In Progress Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
+ - [In Progress Microsoft Certified: Azure Data Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification)
 
 
 <h2> Connect with me:</h2>
