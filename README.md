@@ -17,7 +17,7 @@
   - [Working with NTSB Data in SQL]
   - [Multilevel and Mixed Modeling in R](https://github.com/rebecca-ioffe/MultilevelAndMixedModeling)
   - [Multivariate Analysis in R]
-  - [Survival Analysis in R and Minitab]
+  - [Survival Analysis in R and Minitab](https://github.com/rebecca-ioffe/SurvivalAnalysis)
   - [Working with Gapminder Data in SAS]
 
 <h2> Certifications : </h2> 
