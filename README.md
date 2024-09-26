@@ -15,7 +15,7 @@
   - [Generative Art with R](https://github.com/rebecca-ioffe/GenerativeArt)
   - [Horoscope R Package](https://github.com/rebecca-ioffe/HoroscopePackage)
   - [Working with NTSB Data in SQL]
-  - [Multilevel and Mixed Modeling in R]
+  - [Multilevel and Mixed Modeling in R](https://github.com/rebecca-ioffe/MultilevelAndMixedModeling)
   - [Multivariate Analysis in R]
   - [Survival Analysis in R and Minitab]
   - [Working with Gapminder Data in SAS]
